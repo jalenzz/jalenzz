@@ -6,7 +6,7 @@
 
 - :telescope: Studying and Coding
 - :heart: :ping_pong: :volleyball: :swimming_man: :computer:
-- :school: **Senior middle school** ⇒ University
+- :school: HDU
 
 **Where to find me :beers:**
 
