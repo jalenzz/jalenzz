@@ -9,7 +9,7 @@
 
 **Where to find me :beers:**
 
-- :memo: [Jalen's Blog](https://jalenz.cn)
+- ~:memo: [Jalen's Blog](https://jalenz.cn)~
 - :email: `jalenchuh AT gmail.com`
 
 ![JalenChuh's github stats](https://github-readme-stats.vercel.app/api/?username=jalenzz&show_icons=true&theme=dracula)
