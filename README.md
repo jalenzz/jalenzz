@@ -14,6 +14,6 @@
 - :email: `jalenchuh AT gmail.com`
  -->
 
-![JalenChuh's github stats](https://github-readme-stats.vercel.app/api/?username=jalenzz&show_icons=true&theme=dracula)
+![Jalen's github stats](https://github-readme-stats-eight-phi-34.vercel.app/api/?username=jalenzz&show_icons=true&theme=dracula)
 
 ###### 💾 EOF
